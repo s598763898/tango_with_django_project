@@ -136,3 +136,5 @@ PASSWORD_HASHERS = (
 
 #Login URL
 LOGIN_URL = '/rango/login/'
+
+SESSION_EXPIRE_AT_BROWSER_CLOSE = True
